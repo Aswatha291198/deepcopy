@@ -11,7 +11,7 @@ const originalObj = {
         }
     ],
     greet() {
-        console.log(`Hi, my name is also ${this.name}.`);
+        console.log(`Hi, my name is also hedfhdfhdfhfh${this.name}.`);
     }
 }
 
